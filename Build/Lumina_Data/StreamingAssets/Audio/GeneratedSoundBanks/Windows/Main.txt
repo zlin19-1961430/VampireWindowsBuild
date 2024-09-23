@@ -1,0 +1,32 @@
+Event	ID	Name			Wwise Object Path	Notes
+	630549594	HospitalState			\Music\Themes\HospitalState	
+	922071743	ChurchState			\Music\Themes\ChurchState	
+	2709905299	GraveyardState			\Music\Themes\GraveyardState	
+	3991942870	Music			\Music\Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	777429653	GameStates			\GameState\GameStates	
+
+State	ID	Name	State Group			Notes
+	221232726	Lose	GameStates			
+	748895195	None	GameStates			
+	979765101	Win	GameStates			
+	992774748	Graveyard	GameStates			
+	1640084191	Hospital	GameStates			
+	2423784589	LoseControl	GameStates			
+	2568407992	Church	GameStates			
+	2607556080	Menu	GameStates			
+	4031343534	Mindless	GameStates			
+
+Trigger	ID	Name			Wwise Object Path	Notes
+	4186865675	MusicTransition			\Default Work Unit\MusicTransition	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	63622156	CymbalSwell	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\CymbalSwell_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Stingers\CymbalSwell		967264
+	471733057	WinMusic	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\WinMusic_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Win\WinMusic\WinMusic		1189148
+	653605902	LoseMusic	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\LoseMusic_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Lose\LoseMusic\LoseMusic		1818880
+	667032792	MenuMusic	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\MenuMusic_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Menu\MenuMusic\MenuMusic		4281828
+	734085624	Music_2024GBJAM_Hospital_Master	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\Music_2024GBJAM_Hospital_Master_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Hospital\Music_2024GBJAM_Hospital_Master\Music_2024GBJAM_Hospital_Master		10080088
+	953308746	Music_2024GBJAM_Graveyard_Master	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\Music_2024GBJAM_Graveyard_Master_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Graveyard\Music_2024GBJAM_Graveyard_Master\Music_2024GBJAM_Graveyard_Master		12081904
+	973023024	Music_2024GBJAM_Church_Master	Y:\Documents\git project\GitHub\GameBoyJam24\GameBoyJam24Project\GameBoyJam24Project_WwiseProject\.cache\Windows\SFX\Music_2024GBJAM_Church_Master_FBC78EF0.wem		\Interactive Music Hierarchy\Music\GBJAM_Music\Church\Music_2024GBJAM_Church_Master\Music_2024GBJAM_Church_Master		9817756
+

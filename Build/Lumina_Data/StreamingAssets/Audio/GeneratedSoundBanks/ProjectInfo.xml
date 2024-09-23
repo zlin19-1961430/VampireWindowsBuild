@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="2024GBJAM" GUID="{DE8B019D-3CAD-4AB6-9771-3D92A74F9CD7}" Generator="2023.1.1.8417"/>
+	<CacheRoot>../../../../GameBoyJam24Project_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{580B5E45-824D-403A-876C-B6DF5ACAC92D}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../GameBoyJam24Project_WwiseProject/GeneratedSoundBanks/Android"/>
+		<Platform Name="iOS" GUID="{EDB9024E-3665-4552-B3D7-CEA5ADBF83AD}" BasePlatform="iOS" BasePlatformGUID="{ECE03DB4-F948-462D-B2BB-A9173012B1F8}" Path="../../../../GameBoyJam24Project_WwiseProject/GeneratedSoundBanks/iOS"/>
+		<Platform Name="Mac" GUID="{707C0A40-8D76-49DE-AF11-B96274091BA2}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../GameBoyJam24Project_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Web" GUID="{869D0546-3FC4-48CA-9564-FA238D0BCA47}" BasePlatform="Web" BasePlatformGUID="{639AD233-23F2-4C0F-9127-79F44C15E1DA}" Path="../../../../GameBoyJam24Project_WwiseProject/GeneratedSoundBanks/Web"/>
+		<Platform Name="Windows" GUID="{7EC5F825-EE4C-4ECD-9725-4978EEA24634}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../GameBoyJam24Project_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{E735286D-1AFE-47F9-9D63-7032D2F7CA2D}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{1EC46C48-D2C3-4FB7-F9BB-847A1639B0A9}</FileHash>
+</ProjectInfo>
